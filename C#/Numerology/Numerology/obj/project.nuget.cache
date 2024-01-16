@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "J9RLnslZ1LHTtk3eu3W+Df+PqmUYF/Ne6jdRipqdY5tFpKh8i74LeQpDqjUtv1z7XFENt1E5yppYlCBoHbYuSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\For sale\\Desktop\\Политех\\Программирование и Алгоритмизация\\C#\\Numerology\\Numerology\\Numerology.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\For sale\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\For sale\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\For sale\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\For sale\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oYpdC0TN/SkgmG/rblkyNKCHK5JUBiRtFc7kgYSMzA3ZBdG9IsV+hkxbDqwNPuIlLXGC1WwQ7AfcPSKanReyfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\For sale\\Desktop\\Политех\\Программирование и Алгоритмизация\\C#\\PointInATriangle\\PointInATriangle\\PointInATriangle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\For sale\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\For sale\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\For sale\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\For sale\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

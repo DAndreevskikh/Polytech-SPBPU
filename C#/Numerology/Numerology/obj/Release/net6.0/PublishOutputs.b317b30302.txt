@@ -1,0 +1,5 @@
+C:\Users\For sale\Desktop\Numerology.exe
+C:\Users\For sale\Desktop\Numerology.dll
+C:\Users\For sale\Desktop\Numerology.deps.json
+C:\Users\For sale\Desktop\Numerology.runtimeconfig.json
+C:\Users\For sale\Desktop\Numerology.pdb

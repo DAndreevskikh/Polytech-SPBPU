@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClockAngleCalculator", "ClockAngleCalculator\ClockAngleCalculator.csproj", "{8683D8B5-47B1-4C3B-BB14-0F1B9F463918}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8683D8B5-47B1-4C3B-BB14-0F1B9F463918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8683D8B5-47B1-4C3B-BB14-0F1B9F463918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8683D8B5-47B1-4C3B-BB14-0F1B9F463918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8683D8B5-47B1-4C3B-BB14-0F1B9F463918}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89579420-EC97-4A70-87E3-F69476A7000A}
+	EndGlobalSection
+EndGlobal

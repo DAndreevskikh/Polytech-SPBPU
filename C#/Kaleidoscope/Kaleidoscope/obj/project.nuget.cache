@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+YAOJRWZoL7dIiBONL+/aRb+r/bLMnFlUrKk1kYmz6WptFXA4LYXVEvGlnYPs95ubVjUHSF0EmByDUHWpoHU6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\For sale\\Desktop\\Политех\\Программирование и Алгоритмизация\\C#\\Kaleidoscope\\Kaleidoscope\\Kaleidoscope.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\For sale\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\For sale\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\For sale\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\For sale\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

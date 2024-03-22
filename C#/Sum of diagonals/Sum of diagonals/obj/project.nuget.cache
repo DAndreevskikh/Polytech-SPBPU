@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "W8+EO35d4IADw5ip7d3DgtqLnvZbCRYLXweWDKluaDB2n1f4BxDgm6+WkJ8YgWKYA+tjXaCETs0l7VefgcXqFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\For sale\\Desktop\\Политех\\Программирование и Алгоритмизация\\C#\\Sum of diagonals\\Sum of diagonals\\Sum of diagonals.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\For sale\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\For sale\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\For sale\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\For sale\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

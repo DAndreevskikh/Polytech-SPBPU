@@ -1,0 +1,14 @@
+C:\Users\For sale\Desktop\Политех\Программирование и Алгоритмизация\C#\Sum of diagonals\Sum of diagonals\obj\Debug\net6.0\Sum of diagonals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\For sale\Desktop\Политех\Программирование и Алгоритмизация\C#\Sum of diagonals\Sum of diagonals\obj\Debug\net6.0\Sum of diagonals.AssemblyInfoInputs.cache
+C:\Users\For sale\Desktop\Политех\Программирование и Алгоритмизация\C#\Sum of diagonals\Sum of diagonals\obj\Debug\net6.0\Sum of diagonals.AssemblyInfo.cs
+C:\Users\For sale\Desktop\Политех\Программирование и Алгоритмизация\C#\Sum of diagonals\Sum of diagonals\obj\Debug\net6.0\Sum of diagonals.csproj.CoreCompileInputs.cache
+C:\Users\For sale\Desktop\Политех\Программирование и Алгоритмизация\C#\Sum of diagonals\Sum of diagonals\bin\Debug\net6.0\Sum of diagonals.exe
+C:\Users\For sale\Desktop\Политех\Программирование и Алгоритмизация\C#\Sum of diagonals\Sum of diagonals\bin\Debug\net6.0\Sum of diagonals.deps.json
+C:\Users\For sale\Desktop\Политех\Программирование и Алгоритмизация\C#\Sum of diagonals\Sum of diagonals\bin\Debug\net6.0\Sum of diagonals.runtimeconfig.json
+C:\Users\For sale\Desktop\Политех\Программирование и Алгоритмизация\C#\Sum of diagonals\Sum of diagonals\bin\Debug\net6.0\Sum of diagonals.dll
+C:\Users\For sale\Desktop\Политех\Программирование и Алгоритмизация\C#\Sum of diagonals\Sum of diagonals\bin\Debug\net6.0\Sum of diagonals.pdb
+C:\Users\For sale\Desktop\Политех\Программирование и Алгоритмизация\C#\Sum of diagonals\Sum of diagonals\obj\Debug\net6.0\Sum of diagonals.dll
+C:\Users\For sale\Desktop\Политех\Программирование и Алгоритмизация\C#\Sum of diagonals\Sum of diagonals\obj\Debug\net6.0\refint\Sum of diagonals.dll
+C:\Users\For sale\Desktop\Политех\Программирование и Алгоритмизация\C#\Sum of diagonals\Sum of diagonals\obj\Debug\net6.0\Sum of diagonals.pdb
+C:\Users\For sale\Desktop\Политех\Программирование и Алгоритмизация\C#\Sum of diagonals\Sum of diagonals\obj\Debug\net6.0\Sum of diagonals.genruntimeconfig.cache
+C:\Users\For sale\Desktop\Политех\Программирование и Алгоритмизация\C#\Sum of diagonals\Sum of diagonals\obj\Debug\net6.0\ref\Sum of diagonals.dll

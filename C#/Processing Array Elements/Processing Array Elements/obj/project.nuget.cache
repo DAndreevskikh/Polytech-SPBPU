@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "W61N1QzxewJGNQ0+NtLUEdgHS54JkrW6HrB7YeS74RxnZTzW1Oh/oHzlOsTdqawGqex6jyx/U5dKh1RO7mXhbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\For sale\\Desktop\\Политех\\Программирование и Алгоритмизация\\C#\\Processing Array Elements\\Processing Array Elements\\Processing Array Elements.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\For sale\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\For sale\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\For sale\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\For sale\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

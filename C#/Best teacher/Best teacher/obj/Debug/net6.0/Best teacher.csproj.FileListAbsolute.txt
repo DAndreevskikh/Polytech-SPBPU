@@ -1,0 +1,14 @@
+C:\Users\For sale\Desktop\Политех\Программирование и Алгоритмизация\C#\Best teacher\Best teacher\bin\Debug\net6.0\Best teacher.exe
+C:\Users\For sale\Desktop\Политех\Программирование и Алгоритмизация\C#\Best teacher\Best teacher\bin\Debug\net6.0\Best teacher.deps.json
+C:\Users\For sale\Desktop\Политех\Программирование и Алгоритмизация\C#\Best teacher\Best teacher\bin\Debug\net6.0\Best teacher.runtimeconfig.json
+C:\Users\For sale\Desktop\Политех\Программирование и Алгоритмизация\C#\Best teacher\Best teacher\bin\Debug\net6.0\Best teacher.dll
+C:\Users\For sale\Desktop\Политех\Программирование и Алгоритмизация\C#\Best teacher\Best teacher\bin\Debug\net6.0\Best teacher.pdb
+C:\Users\For sale\Desktop\Политех\Программирование и Алгоритмизация\C#\Best teacher\Best teacher\obj\Debug\net6.0\Best teacher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\For sale\Desktop\Политех\Программирование и Алгоритмизация\C#\Best teacher\Best teacher\obj\Debug\net6.0\Best teacher.AssemblyInfoInputs.cache
+C:\Users\For sale\Desktop\Политех\Программирование и Алгоритмизация\C#\Best teacher\Best teacher\obj\Debug\net6.0\Best teacher.AssemblyInfo.cs
+C:\Users\For sale\Desktop\Политех\Программирование и Алгоритмизация\C#\Best teacher\Best teacher\obj\Debug\net6.0\Best teacher.csproj.CoreCompileInputs.cache
+C:\Users\For sale\Desktop\Политех\Программирование и Алгоритмизация\C#\Best teacher\Best teacher\obj\Debug\net6.0\Best teacher.dll
+C:\Users\For sale\Desktop\Политех\Программирование и Алгоритмизация\C#\Best teacher\Best teacher\obj\Debug\net6.0\refint\Best teacher.dll
+C:\Users\For sale\Desktop\Политех\Программирование и Алгоритмизация\C#\Best teacher\Best teacher\obj\Debug\net6.0\Best teacher.pdb
+C:\Users\For sale\Desktop\Политех\Программирование и Алгоритмизация\C#\Best teacher\Best teacher\obj\Debug\net6.0\Best teacher.genruntimeconfig.cache
+C:\Users\For sale\Desktop\Политех\Программирование и Алгоритмизация\C#\Best teacher\Best teacher\obj\Debug\net6.0\ref\Best teacher.dll

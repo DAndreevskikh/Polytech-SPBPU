@@ -1,0 +1,14 @@
+C:\Users\For sale\Desktop\Политех\Программирование и Алгоритмизация\C#\Comb the array\Comb the array\bin\Debug\net6.0\Comb the array.exe
+C:\Users\For sale\Desktop\Политех\Программирование и Алгоритмизация\C#\Comb the array\Comb the array\bin\Debug\net6.0\Comb the array.deps.json
+C:\Users\For sale\Desktop\Политех\Программирование и Алгоритмизация\C#\Comb the array\Comb the array\bin\Debug\net6.0\Comb the array.runtimeconfig.json
+C:\Users\For sale\Desktop\Политех\Программирование и Алгоритмизация\C#\Comb the array\Comb the array\bin\Debug\net6.0\Comb the array.dll
+C:\Users\For sale\Desktop\Политех\Программирование и Алгоритмизация\C#\Comb the array\Comb the array\bin\Debug\net6.0\Comb the array.pdb
+C:\Users\For sale\Desktop\Политех\Программирование и Алгоритмизация\C#\Comb the array\Comb the array\obj\Debug\net6.0\Comb the array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\For sale\Desktop\Политех\Программирование и Алгоритмизация\C#\Comb the array\Comb the array\obj\Debug\net6.0\Comb the array.AssemblyInfoInputs.cache
+C:\Users\For sale\Desktop\Политех\Программирование и Алгоритмизация\C#\Comb the array\Comb the array\obj\Debug\net6.0\Comb the array.AssemblyInfo.cs
+C:\Users\For sale\Desktop\Политех\Программирование и Алгоритмизация\C#\Comb the array\Comb the array\obj\Debug\net6.0\Comb the array.csproj.CoreCompileInputs.cache
+C:\Users\For sale\Desktop\Политех\Программирование и Алгоритмизация\C#\Comb the array\Comb the array\obj\Debug\net6.0\Comb the array.dll
+C:\Users\For sale\Desktop\Политех\Программирование и Алгоритмизация\C#\Comb the array\Comb the array\obj\Debug\net6.0\refint\Comb the array.dll
+C:\Users\For sale\Desktop\Политех\Программирование и Алгоритмизация\C#\Comb the array\Comb the array\obj\Debug\net6.0\Comb the array.pdb
+C:\Users\For sale\Desktop\Политех\Программирование и Алгоритмизация\C#\Comb the array\Comb the array\obj\Debug\net6.0\Comb the array.genruntimeconfig.cache
+C:\Users\For sale\Desktop\Политех\Программирование и Алгоритмизация\C#\Comb the array\Comb the array\obj\Debug\net6.0\ref\Comb the array.dll
